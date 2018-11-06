@@ -1,0 +1,12 @@
+[package]
+name = "code"
+version = "0.1.0"
+authors = ["danielchristopher1 <lightwayz@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+hdk = { git = "https://github.com/holochain/holochain-rust", branch = "develop" }
+
+[lib]
+path = "src/lib.rs"
+crate-type = ["cdylib"]
