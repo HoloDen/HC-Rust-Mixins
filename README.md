@@ -1,2 +1,5 @@
-# HC-Rust-Anchor
-anchor mixin for Rust
+# HC-Rust-Mixins
+
+Mixins for Rust
+
+# Anchor
